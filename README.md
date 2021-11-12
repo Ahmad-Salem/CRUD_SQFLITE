@@ -1,6 +1,8 @@
 # crud_sqlite_app
 
 A new Flutter project.
+- CRUD sqflite involved in this project.
+- Null safety invloved.
 
 ## Getting Started
 
